@@ -6,4 +6,5 @@ using UnityEngine.EventSystems;
 public class Item : MonoBehaviour
 {
     public string itemName;
+    public string itemStatus;
 }
